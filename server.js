@@ -20,7 +20,7 @@ app.get('/api/elements',(req,res) => {
             name:"serhii",
             predmet:"Eanglish",
             content: 'пеніа, іпіапі, івапів',
-            picture:"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2025-07/250706-black-sabbath-4-rs-b6e801.jpg",
+            picture:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.planetware.com%2Fpictures%2Findia-ind.htm&psig=AOvVaw1BkBpIcP1iimcdA9I3py7f&ust=1754000811531000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODIwazQ5Y4DFQAAAAAdAAAAABAE",
         },
         {
             id: 3,
